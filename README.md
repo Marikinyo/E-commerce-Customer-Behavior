@@ -28,13 +28,15 @@ This project segments customers into distinct groups using clustering algorithms
    
 ## How to Run
 
-Execute the notebooks in the following order:
+Execute the scripts in the following order:
 
-1. **`1_Clustering.ipynb`**: Determine optimal `k` and save it to `optimal_k.txt`.
-2. **`2_KMeans.ipynb`**: Assign cluster labels to customers.
-3. **`3_Validation.ipynb`**: Validate the clustering performance.
-4. **`4_Visualization.ipynb`**: Visualize the clusters.
-5. **`5_Recommendation.ipynb`**: Generate recommendations for each cluster.
+1. **`data_preprocessing.py`**: Preprocess the data (cleaning, feature engineering, etc.).
+2. **`elbow_method_selection.py`**: Determine the optimal `k` and save it to `optimal_k.txt`.
+3. **`kmeans_clustering.py`**: Apply K-means clustering and assign cluster labels to customers.
+4. **`validate_clustering.py`**: Validate the clustering performance.
+5. **`visualize_clusters.py`**: Visualize the clusters.
+6. **`recommendations.py`**: Generate recommendations for each cluster.
+
 
 ## Technologies
 
