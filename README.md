@@ -26,9 +26,7 @@ This project segments customers into distinct groups using clustering algorithms
    pip install -r requirements.txt
    
    
-## How to Run
-
-Execute the scripts in the following order:
+### Execute the scripts in the following order:
 
 1. **`data_preprocessing.py`**: Preprocess the data (cleaning, feature engineering, etc.).
 2. **`elbow_method_selection.py`**: Determine the optimal `k` and save it to `optimal_k.txt`.
