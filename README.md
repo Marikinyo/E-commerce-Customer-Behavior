@@ -6,10 +6,6 @@ This project segments customers into distinct groups using clustering algorithms
 ## Age Group Categorization
 The users were categorized into the following age ranges:
 
-## Age Range Information
-
-The following age ranges were used to segment customers:
-
 | Age Group             | Age Range |
 |-----------------------|-----------|
 | **Child**             | 0 - 16    |
@@ -49,6 +45,7 @@ These categories were used to segment users for clustering and to personalize re
 3. **`kmeans_clustering.py`**: Apply K-means clustering and assign cluster labels to customers.
 4. **`validate_clustering.py`**: Validate the clustering performance.
 5. **`visualize_clusters.py`**: Visualize the clusters.
+6. **`Cluster Data Extraction and Analysis.py`**: Extract the clusters
 6. **`recommendations.py`**: Generate recommendations for each cluster.
 
 
