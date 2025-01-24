@@ -6,10 +6,16 @@ This project segments customers into distinct groups using clustering algorithms
 ## Age Group Categorization
 The users were categorized into the following age ranges:
 
-- **Child**: 0-16
-- **Young Adults**: 17-30
-- **Middle-aged Adults**: 31-45
-- **Old-aged Adults**: 46+
+## Age Range Information
+
+The following age ranges were used to segment customers:
+
+| Age Group             | Age Range |
+|-----------------------|-----------|
+| **Child**             | 0 - 16    |
+| **Young Adults**      | 17 - 30   |
+| **Middle-aged Adults**| 31 - 45   |
+| **Old-aged Adults**   | 46+       |
 
 These categories were used to segment users for clustering and to personalize recommendations based on their age groups.
 
