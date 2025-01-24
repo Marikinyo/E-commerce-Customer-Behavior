@@ -3,7 +3,7 @@
 ## Overview
 This project segments customers into distinct groups using clustering algorithms and provides recommendations tailored to each group. It involves data preprocessing, clustering, validation, visualization, and recommendation generation.
 
-## Age Group Categorization
+### Age Group Categorization
 The users were categorized into the following age ranges:
 
 | Age Group             | Age Range |
@@ -13,7 +13,17 @@ The users were categorized into the following age ranges:
 | **Middle-aged Adults**| 31 - 45   |
 | **Old-aged Adults**   | 46+       |
 
+
+
 These categories were used to segment users for clustering and to personalize recommendations based on their age groups.
+
+### Satisfaction Levels:
+The satisfaction levels are measured on a scale from 0 to 1, with the following categories:
+
+| **Very Dissatisfied** | **Dissatisfied** | **Satisfied** | **Very Satisfied** |
+|-----------------------|------------------|---------------|--------------------|
+| **0**                 | **0.3**          | **0.7**       | **1**              |
+
 
 ## Key Steps
 1. **Clustering:**
