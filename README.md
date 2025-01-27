@@ -1,7 +1,7 @@
-# E-commerce Customer Segmentation and Recommendation System
+# E-commerce Customer Segmentation and Similarity Matrices
 
 ## Overview
-This project segments customers into distinct groups using clustering algorithms and provides recommendations tailored to each group. It involves data preprocessing, clustering, validation, visualization, and recommendation generation.
+This project segments customers into distinct groups using clustering algorithms and provides similarity matrices tailored to each group. It involves data preprocessing, clustering, validation, visualization, and similarity matrices generation.
 
 ### Age Group Categorization
 The users were categorized into the following age ranges:
@@ -39,8 +39,8 @@ The satisfaction levels are measured on a scale from 0 to 1, with the following 
 3. **Visualization:**
    - Used PCA and t-SNE for 2D visualization of customer clusters.
 
-4. **Recommendation System:**
-   - Analyzed clusters to generate personalized recommendations.
+4. **Similarity Matrices:**
+   - Analyzed clusters to generate similarity matrices.
 
 ## How to Run
 1. Clone the repository and install dependencies:
@@ -56,7 +56,7 @@ The satisfaction levels are measured on a scale from 0 to 1, with the following 
 4. **`validate_clustering.py`**: Validate the clustering performance.
 5. **`visualize_clusters.py`**: Visualize the clusters.
 6. **`Cluster Data Extraction and Analysis.py`**: Extract the clusters
-6. **`recommendations.py`**: Generate recommendations for each cluster.
+6. **`similarity_matrices.py`**: Generate similarity matrices for each cluster.
 
 
 ## Technologies
