@@ -1,7 +1,8 @@
 # E-commerce Customer Segmentation and Similarity Matrices
 
 ## Overview
-This project segments customers into distinct groups using clustering algorithms and provides similarity matrices tailored to each group. It involves data preprocessing, clustering, validation, visualization, and similarity matrices generation.
+This project segments e-commerce customers into distinct groups using clustering algorithms (KMeans) and generates similarity matrices for each cluster. These matrices identify customers with similar demographic and transactional characteristics, such as age, spending patterns, purchase frequency, and satisfaction levels, enabling customer segmentation for more personalized marketing strategies and improving engagement through targeted groups based on demographic and transactional data. The project involves key steps like data preprocessing, clustering, evaluation, and visualization, culminating in the generation of similarity matrices that can be used to make data-driven decisions.
+
 
 ### Age Group Categorization
 The users were categorized into the following age ranges:
