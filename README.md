@@ -56,7 +56,7 @@ The satisfaction levels are measured on a scale from 0 to 1, with the following 
 4. **`validate_clustering.py`**: Validate the clustering performance.
 5. **`visualize_clusters.py`**: Visualize the clusters.
 6. **`Cluster Data Extraction and Analysis.py`**: Extract the clusters
-6. **`similarity_matrices.py`**: Generate similarity matrices for each cluster.
+7. **`similarity_matrices.py`**: Generate similarity matrices for each cluster.
 
 
 ## Technologies
