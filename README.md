@@ -48,7 +48,6 @@ The satisfaction levels are measured on a scale from 0 to 1, with the following 
    ```bash
    pip install -r requirements.txt
    
-   
 ### Execute the scripts in the following order:
 
 1. **`data_preprocessing.py`**: Preprocess the data (cleaning, feature engineering, etc.).
