@@ -1,5 +1,7 @@
 # E-commerce Customer Segmentation and Similarity Matrices
-[https://www.kaggle.com/datasets/uom190346a/e-commerce-customer-behavior-dataset/data]
+## Dataset
+The dataset used in this project can be found on Kaggle:  
+[E-Commerce Customer Behavior Dataset](https://www.kaggle.com/datasets/uom190346a/e-commerce-customer-behavior-dataset/data)
 
 ## Overview
 This project segments e-commerce customers into distinct groups using clustering algorithms (KMeans) and generates similarity matrices for each cluster. These matrices identify customers with similar demographic and transactional characteristics, such as age, spending patterns, purchase frequency, and satisfaction levels, enabling customer segmentation for more personalized marketing strategies and improving engagement through targeted groups based on demographic and transactional data. The project involves key steps like data preprocessing, clustering, evaluation, and visualization, culminating in the generation of similarity matrices that can be used to make data-driven decisions.
